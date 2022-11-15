@@ -1,5 +1,3 @@
-# linux.github.io
-
 ## 最佳发行版
 
 [***Manjaro***](https://manjaro.org/ "https://manjaro.org/")   [***Debian***](https://www.debian.org/ "https://www.debian.org/")    [***LinuxMint***](https://www.linuxmint.com/ "https://www.linuxmint.com/")
